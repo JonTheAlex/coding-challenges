@@ -1,3 +1,3 @@
 function mystery() {
-    return {sanity: 'Hello';}
+    return {sanity: 'Hello'}
 }
